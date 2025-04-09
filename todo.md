@@ -3,7 +3,7 @@
 ## Semana 1 (03 a 09 de abril) – Planejamento e estrutura inicial
 
 - [✅] Organizar estrutura de pastas e arquivos do projeto
-- [ ] Criar fluxograma do chatbot (menu, agendamento, anamnese)
+- [✅] Criar fluxograma do chatbot (menu, agendamento, anamnese)
 - [✅] Listar perguntas da anamnese e salvar em JSON
 - [ ] Definir schema do banco (pacientes, anamnese, consultas)
 - [ ] Conectar app com Redis e Postgres (já rodando via Docker)
